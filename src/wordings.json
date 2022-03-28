@@ -10,7 +10,7 @@
   "sectorTexts": {
     "zero": "Il y a des améliorations à faire. Corrigez votre mail et réessayez encore !",
     "one": "Bien joué mais des améliorations sont encore possibles !",
-    "two": "Bravo !"
+    "two": "Bravo !!"
   },
   "mailObject": "Objet de l'email",
   "noObject": "Vous n'avez pas entré d'objet d'email !",
